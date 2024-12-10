@@ -1,0 +1,36 @@
+@media screen and (min-width: 1024px){
+    .navbar{
+        padding: 23px 0 ;
+    }
+
+    .navbar .fa-bars{
+        display: none;
+    }
+
+    .navbar .logo{
+        width: 120px;
+        margin: auto;
+        position: relative;
+        left: -400px;
+    }
+
+    /* HERO SECTION */z
+
+    .hero .herotext{
+        position: absolute;
+        top: 20%;
+        left: 200px;
+        text-align: center;
+        padding: 0px 8px;
+    }
+
+    .herotext button{
+        padding: 18px 80px;
+        font-size: 17px;
+    }
+
+    .hero img{
+        width: 100%;
+        
+    }
+}
